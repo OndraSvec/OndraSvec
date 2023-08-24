@@ -1,7 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Ondra Švec</h1>
 <h3 align="center">A passionate Front-End developer from the Czech Republic</h3>
 
-- 🌱 I’m currently learning **Three.js, Blender, React-three-fiber, ...**
+- 🔭 I’m currently looking for **a team where I can contribute my skills and knowledge while improving my capabilities**
+
+- 🌱 Right now, I’m learning **Three.js, Blender, React-three-fiber, ...**
 
 - 👨‍💻 You can check out my portfolio at [ondrasvec.dev](https://www.ondrasvec.dev)
 
