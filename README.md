@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **a team where I can contribute my skills and knowledge while improving my capabilities**
 
-- 🌱 Right now, I’m learning **Three.js, Blender, React-three-fiber, ...**
+- 🌱 Right now, I’m learning **React Native**
 
 - 👨‍💻 You can check out my portfolio at [ondrasvec.dev](https://www.ondrasvec.dev)
 
