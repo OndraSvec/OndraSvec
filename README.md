@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently looking for **a team where I can contribute my skills and knowledge while improving my capabilities**
 
-- 🌱 Right now, I’m learning **React Native**
+- 🌱 Right now, I’m learning **Angular**
 
 - 👨‍💻 You can check out my portfolio at [ondrasvec.dev](https://www.ondrasvec.dev)
 
-- 📫 How to reach me **ondrasvecdev@gmail.com**
+- 📫 Reach me at **ondrasvecdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
