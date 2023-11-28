@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **a team where I can contribute my skills and knowledge while improving my capabilities**
 
-- 🌱 Right now, I’m learning **Angular**
+- 🌱 Right now, I’m taking Harvard's **CS50** classes to further improve my skillset
 
 - 👨‍💻 You can check out my portfolio at [ondrasvec.dev](https://www.ondrasvec.dev)
 
