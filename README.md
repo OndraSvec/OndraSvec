@@ -1,10 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Ondra Švec</h1>
 <h3 align="center">A passionate Front-End developer from the Czech Republic</h3>
 
-- 🔭 I’m currently looking for **a team where I can contribute my skills and knowledge while improving my capabilities**
-
-- 🌱 Right now, I’m taking **FrontendMasters** courses to further improve my skillset
-
 - 👨‍💻 You can check out my portfolio at [ondrasvec.dev](https://www.ondrasvec.dev)
 
 - 📫 Reach me at **ondrasvecdev@gmail.com**
