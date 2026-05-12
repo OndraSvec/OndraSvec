@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Ondra Švec</h1>
 <h3 align="center">A passionate Front-End developer from the Czech Republic</h3>
 
-- 📫 You can reach me at **ondrasvecdev@gmail.com**
+📫 You can reach me at **ondrasvecdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
